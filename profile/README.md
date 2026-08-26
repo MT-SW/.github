@@ -24,7 +24,7 @@ Meshtastic Świętokrzyskie to **nieformalna, lokalna społeczność hobbystów*
 
 ### Dołącz do nas
 
-Szczegóły dotyczące sieci, konfiguracji i sposobu dołączenia znajdziesz na naszej stronie: [meshtastic-swietokrzyskie.pl](https://meshtastic-swietokrzyskie.pl)
+Szczegóły dotyczące sieci, konfiguracji i sposobu dołączenia znajdziesz na naszej stronie: [meshtastic-swietokrzyskie.pl](https://mt-sw.pl)
 
 ### Informacja prawna
 
@@ -46,7 +46,7 @@ Meshtastic Świętokrzyskie is an **informal, local hobbyist community** buildin
 
 ### Join us
 
-For details about the network, configuration, and how to join, visit our website: [meshtastic-swietokrzyskie.pl](https://meshtastic-swietokrzyskie.pl)
+For details about the network, configuration, and how to join, visit our website: [meshtastic-swietokrzyskie.pl](https://mt-sw.pl)
 
 ### Legal notice
 
