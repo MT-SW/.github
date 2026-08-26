@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📡 Meshtastic Świętokrzyskie
+# 📡 MT_SW
 
 **Lokalna sieć mesh LoRa w województwie świętokrzyskim, Polska**
 **Local LoRa mesh network in the Świętokrzyskie voivodeship, Poland**
