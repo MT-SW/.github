@@ -17,31 +17,41 @@ MT_SW to **nieformalna, lokalna społeczność hobbystów**, którzy wspólnie b
 
 ### Co robimy
 
-- Utrzymujemy i rozwijamy regionalną sieć węzłów mesh (planowanie częstotliwości, konfiguracja, pomoc dla nowych uczestników).
-- Tworzymy i utrzymujemy własne wersje oprogramowania powiązanego z Meshtastic: aplikację na Androida i komputery (MT_SW_APP), firmware (MT_SW_FIRMWARE) oraz integrację z Home Assistant (MT_SW_INTEGRATION), z poprawkami i funkcjami dopasowanymi do naszych potrzeb.
+- Utrzymujemy i rozwijamy regionalną sieć węzłów mesh: planowanie częstotliwości, konfiguracja, pomoc dla nowych uczestników.
+- Tworzymy własne wersje oprogramowania powiązanego z Meshtastic, z poprawkami i funkcjami dopasowanymi do naszych potrzeb:
+  - **MT_SW_APP** – aplikacja na Androida i komputery,
+  - **MT_SW_FIRMWARE** – firmware urządzeń,
+  - **MT_SW_INTEGRATION** – integracja z Home Assistant.
 - Nasze rozwiązania pozostają zgodne z główną siecią Meshtastic.
 - Dzielimy się wiedzą techniczną i pomagamy nowym osobom dołączyć do sieci.
 
 ### Dołącz do nas
 
-Szczegóły dotyczące sieci, konfiguracji i sposobu dołączenia znajdziesz na naszej stronie: [mt-sw.pl](https://mt-sw.pl)
+Szczegóły o sieci, konfiguracji i sposobie dołączenia: [mt-sw.pl](https://mt-sw.pl)
 
 Pytania i zgłaszanie błędów w naszych projektach: przez nasze kanały (lokalne grupy, Discord/WhatsApp/Signal, sieć mesh).
 
-### Nazwa i prawa
+### Licencja i nazwa
 
-Kod naszych projektów jest na licencji GNU GPL v3. Licencja daje prawo do kodu, a nie do nazwy.
+Kod naszych projektów jest otwarty, na licencji GNU GPL v3 — możesz go używać, zmieniać i udostępniać dalej na jej zasadach.
 
-- Nazwy MT_SW, MT_SW_APP, MT_SW_FIRMWARE, MT_SW_INTEGRATION oraz nasze logo to oznaczenia tego projektu. Zmienioną lub cudzą wersję prosimy nazwać inaczej i nie sugerować, że pochodzi od nas lub jest przez nas popierana. Napisanie, że coś „działa z MT_SW”, jest w porządku.
-- Nasze teksty, zrzuty ekranu, grafiki i dokumentację możesz cytować w rozsądnym zakresie z podaniem autora i źródła. Prosimy nie kopiować ich w całości i nie podawać jako własnych.
-- Jeśli chcesz napisać o nas artykuł lub wzmiankę, skontaktuj się z nami przed publikacją — chętnie sprawdzimy fakty. Prosimy o prawdziwe informacje i o niepodawanie prywatnych danych osób tworzących projekt.
-- Zastrzegamy sobie żądanie sprostowania nieprawdziwych informacji oraz inne kroki przewidziane prawem.
+Prosimy o dobre praktyki:
 
-Szczegóły: [NAZWA-I-PRAWA.md](https://github.com/MT-SW/MT_SW_APP/blob/main/NAZWA-I-PRAWA.md)
+- zmienioną lub cudzą wersję programu nazwij inaczej i zaznacz, że nie pochodzi od nas;
+- nie przedstawiaj swojego produktu, strony ani grupy jako oficjalnego projektu MT_SW, jeśli nim nie jest;
+- nasze teksty, zrzuty ekranu i dokumentację możesz cytować z podaniem autora i źródła.
+
+### Pisanie o nas
+
+Chętnie, jeśli ktoś chce napisać o projekcie lub sieci. Jeśli to możliwe, odezwij się do nas wcześniej — pomożemy sprawdzić fakty i podamy aktualne informacje. Prosimy, by nie publikować prywatnych danych osób tworzących projekt.
+
+### Brak odpowiedzialności za cudze treści
+
+Nie odpowiadamy za informacje, artykuły, filmy, strony ani wypowiedzi tworzone przez osoby i podmioty trzecie, w tym za błędne, nieaktualne lub niezwiązane z nami fakty. Odcinamy się od stron, struktur, grup i osób, które piszą lub mówią o nas bez kontaktu z nami i bez udziału w naszej społeczności i sieci. Rzetelne informacje o projekcie znajdziesz w naszych własnych kanałach i repozytoriach (GitHub MT-SW, mt-sw.pl). W razie nieprawdziwych informacji o nas prosimy o kontakt — poprosimy o sprostowanie.
 
 ### Informacja prawna
 
-Ten projekt **nie jest afiliowany ani wspierany przez Meshtastic LLC**. Meshtastic® jest zarejestrowanym znakiem towarowym Meshtastic LLC. Oprogramowanie Meshtastic udostępniane jest na różnych licencjach — szczegóły na [GitHub Meshtastic](https://github.com/meshtastic). Korzystasz z naszych projektów na własne ryzyko, bez żadnej gwarancji.
+Ten projekt **nie jest afiliowany ani wspierany przez Meshtastic LLC**. Meshtastic® jest zarejestrowanym znakiem towarowym Meshtastic LLC. Oprogramowanie Meshtastic udostępniane jest na różnych licencjach — szczegóły na [GitHub Meshtastic](https://github.com/meshtastic). Z naszych projektów korzystasz na własne ryzyko, bez żadnej gwarancji.
 
 ---
 
@@ -53,27 +63,37 @@ MT_SW is an **informal, local hobbyist community** building and maintaining a re
 
 ### What we do
 
-- We maintain and grow a regional mesh node network (frequency planning, configuration, help for newcomers).
-- We build and maintain our own versions of Meshtastic-related software: an Android and desktop app (MT_SW_APP), firmware (MT_SW_FIRMWARE) and a Home Assistant integration (MT_SW_INTEGRATION), with fixes and features tailored to our needs.
+- We maintain and grow a regional mesh node network: frequency planning, configuration, help for newcomers.
+- We build our own versions of Meshtastic-related software, with fixes and features tailored to our needs:
+  - **MT_SW_APP** – Android and desktop app,
+  - **MT_SW_FIRMWARE** – device firmware,
+  - **MT_SW_INTEGRATION** – Home Assistant integration.
 - Our solutions stay compatible with the main Meshtastic network.
 - We share technical knowledge and help new people join the network.
 
 ### Join us
 
-For details about the network, configuration, and how to join, visit our website: [mt-sw.pl](https://mt-sw.pl)
+Details about the network, configuration and how to join: [mt-sw.pl](https://mt-sw.pl)
 
 Questions and bug reports for our projects: through our channels (local groups, Discord/WhatsApp/Signal, the mesh network).
 
-### Name and rights
+### Licence and name
 
-The code of our projects is under the GNU GPL v3. The licence grants rights to the code, not to the name.
+The code of our projects is open, under the GNU GPL v3 — you may use, modify and redistribute it under its terms.
 
-- The names MT_SW, MT_SW_APP, MT_SW_FIRMWARE, MT_SW_INTEGRATION and our logos identify this project. Please give a modified or third-party version a different name and do not suggest that it comes from us or is endorsed by us. Truthfully saying something “works with MT_SW” is fine.
-- You may quote our texts, screenshots, graphics and documentation to a reasonable extent, naming the author and source. Please do not copy them wholesale or present them as your own.
-- If you want to write an article or mention about us, please contact us before publishing — we will gladly check the facts. Please keep it truthful and do not publish private data of the people behind the project.
-- We reserve the right to demand correction of false information and to take other steps provided by law.
+We kindly ask for good practice:
 
-Details: [NAZWA-I-PRAWA.md](https://github.com/MT-SW/MT_SW_APP/blob/main/NAZWA-I-PRAWA.md)
+- please give a modified or third-party version a different name and state that it does not come from us;
+- please do not present your product, website or group as an official MT_SW project if it is not;
+- you may quote our texts, screenshots and documentation, naming the author and source.
+
+### Writing about us
+
+You are welcome to write about the project or the network. If possible, please contact us beforehand — we will help check the facts and give current information. Please do not publish private data of the people behind the project.
+
+### No responsibility for third-party content
+
+We are not responsible for information, articles, videos, websites or statements made by third parties, including incorrect, outdated or unrelated facts about us. We distance ourselves from websites, structures, groups and persons who write or speak about us without any contact with us and without taking part in our community and network. Reliable information about the project can be found in our own channels and repositories (GitHub MT-SW, mt-sw.pl). If you see false information about us, please contact us — we will ask for a correction.
 
 ### Legal notice
 
